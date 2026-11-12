@@ -1,4 +1,7 @@
 # PythonBasics
+
+Cours de programmation en Python
+
 Python3 programming course
 
 The course is aimed at those wishing to learn data science, but can also be used by anyone wishing to learn python. A brief list of topics:
