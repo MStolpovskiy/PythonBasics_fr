@@ -1,20 +1,24 @@
 # PythonBasics
+<<<<<<< HEAD
 
 Cours de programmation en Python
 
 Python3 programming course
+=======
+Cours de programmation Python 3
+>>>>>>> f3391fa (first done)
 
-The course is aimed at those wishing to learn data science, but can also be used by anyone wishing to learn python. A brief list of topics:
+Ce cours s'adresse à celles et ceux qui souhaitent apprendre la science des données, mais il peut aussi être utilisé par toute personne souhaitant apprendre Python. Voici une brève liste des sujets abordés :
 
-- Basic operations
+- Opérations de base
 - Types
-- Functions
-- Recursion
+- Fonctions
+- Récursivité
 - Classes
 
-Inside you will find plenty of practical exercises.
-You can get through them all in about two weeks at a relaxed pace.
-Although the course covers all the basic concepts, you won't find many advanced topics like decorators.
-It is assumed that once the student has mastered the basics, they will start using them straight away and can make up for any lack of specialised knowledge on their own.
+Vous y trouverez de nombreux exercices pratiques.
+Vous pouvez les réaliser tous en environ deux semaines, à un rythme tranquille.
+Bien que le cours couvre les concepts de base, vous n'y trouverez pas beaucoup de sujets avancés comme les décorateurs.
+On suppose que, une fois les bases maîtrisées, l'étudiant commencera à les utiliser immédiatement et pourra combler lui-même toute lacune en connaissances spécialisées.
 
-[Python installation link](https://docs.anaconda.com/anaconda/install/)
+[Lien d'installation de Python](https://docs.anaconda.com/anaconda/install/)
